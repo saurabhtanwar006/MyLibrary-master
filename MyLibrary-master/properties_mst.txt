@@ -1,0 +1,5 @@
+1. for maximum spanning tree just replace weights with negative weights
+
+2. if weight of all edges distinct , then minimum frame is unique .
+  Otherwise there may exist multiple minimum spanning trees.
+
